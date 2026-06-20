@@ -5,7 +5,6 @@
 I build intelligent systems powered by Large Language Models, AI Agents, RAG pipelines, and modern web technologies.
 
 Currently focused on:
-
 * AI Agents & Multi-Agent Systems
 * Retrieval-Augmented Generation (RAG)
 * AI-Powered SaaS Products
@@ -13,7 +12,6 @@ Currently focused on:
 * Full-Stack AI Applications
 
 ## Tech Stack
-
 ### AI & ML
 OpenAI · LangChain · LangGraph · MCP · RAG systems · Vector databases · Prompt engineering · Fine-tuning  
 ### Backend
@@ -23,20 +21,6 @@ Next.js · React · TypeScript · Tailwind CSS
 ### DevOps
 Docker · AWS · GitHub Actions · Vercel 
 
-## Current Focus
-
-```python
-learning = [
-    "Advanced Agent Architectures",
-    "Long-Term Memory Systems",
-    "MCP Servers",
-    "Production RAG Pipelines",
-    "AI Infrastructure",
-    "Model Fine tunning",
-    "Computer Vision"
-]
-```
-
 ## 2026 Goals
 * Build profitable AI SaaS products
 * Contribute to open-source AI projects
@@ -44,6 +28,5 @@ learning = [
 * Deploy production-grade agent systems
 
 ## Connect With Me
-
 * LinkedIn: https://www.linkedin.com/in/adebola-elisha-77a1a8257
 * Portfolio: https://portfolioadebola.netlify.app
